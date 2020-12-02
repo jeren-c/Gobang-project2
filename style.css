@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+}
+
+.author {
+    text-align: center;
+}
+
+.board {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 50px auto;
+    box-shadow: 5px 5px 5px #b9b9b9, -2px -2px -2px #efefef;
+    cursor: pointer;
+}
+
+.restart {
+    width: 42px;
+    height: 20px;
+    margin: center;
+    padding: 10px 20px;
+    background-color: #504550;
+    border-start-end-radius: 5%;
+    color: white;
+}
